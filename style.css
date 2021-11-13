@@ -1,3 +1,7 @@
-.body {
-  background-color: rgb(0, 255, 106);
+/* Свойство text-decoration */
+.text > span {
+  text-decoration: line-through;
+}
+.link {
+  text-decoration: none;
 }
