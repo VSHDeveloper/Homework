@@ -5,3 +5,32 @@
 .link {
   text-decoration: none;
 }
+
+/* Свойство text-transform */
+.site-nav .link {
+  text-transform: capitalize;
+}
+
+/* Свойство text-align */
+.post-title {
+  text-align: center;
+}
+
+.align-right {
+  text-align: right;
+}
+
+.align-justify {
+  text-align: justify;
+}
+
+/* Свойство text-indent */
+.post-text {
+  text-indent: 100px;
+}
+
+/* Свойство line-height */
+.text {
+  font-size: 16px;
+  line-height: 1.5;
+}
